@@ -1,6 +1,11 @@
 module.exports = {
   apps: [
     { 
+      name: "Dummy-Web", 
+      script: "python3", 
+      args: "-m http.server 10000" 
+    },
+    { 
       name: "peaxel25", script: "bot.py", interpreter: "python3",
       env: { 
         BOT_NAME: "Peaxel25", 
