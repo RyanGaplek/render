@@ -1,43 +1,43 @@
 module.exports = {
   apps: [
     { 
-      name: "VIP-Max", script: "botpremium.py", interpreter: "python3",
+      name: "peaxel25", script: "botpremium.py", interpreter: "python3",
       env: { 
-        BOT_NAME: "Peaxel20", 
-        API_KEY: process.env.API_20, 
-        PRIVATE_KEY: process.env.PRIV_20 
+        BOT_NAME: "Peaxel25", 
+        API_KEY: process.env.API_25, 
+        PRIVATE_KEY: process.env.PRIV_25
       }
     },
     { 
-      name: "VIP-Lite", script: "botpremium.py", interpreter: "python3",
+      name: "peaxel26", script: "botpremium.py", interpreter: "python3",
       env: { 
-        BOT_NAME: "Peaxel21", 
-        API_KEY: process.env.API_21, 
-        PRIVATE_KEY: process.env.PRIV_21 
+        BOT_NAME: "Peaxel26", 
+        API_KEY: process.env.API_26, 
+        PRIVATE_KEY: process.env.PRIV_26 
       }
     },
     { 
-      name: "VIP-Turbo", script: "botpremium.py", interpreter: "python3",
+      name: "peaxel27", script: "botpremium.py", interpreter: "python3",
       env: { 
-        BOT_NAME: "Peaxel22", 
-        API_KEY: process.env.API_22, 
-        PRIVATE_KEY: process.env.PRIV_22 
+        BOT_NAME: "Peaxel27", 
+        API_KEY: process.env.API_27, 
+        PRIVATE_KEY: process.env.PRIV_27 
       }
     },
     { 
-      name: "VIP-Dex", script: "botpremium.py", interpreter: "python3",
+      name: "peaxel28", script: "botpremium.py", interpreter: "python3",
       env: { 
-        BOT_NAME: "Peaxel23", 
-        API_KEY: process.env.API_23, 
-        PRIVATE_KEY: process.env.PRIV_23 
+        BOT_NAME: "Peaxel28", 
+        API_KEY: process.env.API_28, 
+        PRIVATE_KEY: process.env.PRIV_28 
       }
     },
     { 
-      name: "VIP-Solar", script: "botpremium.py", interpreter: "python3",
+      name: "peaxel29", script: "botpremium.py", interpreter: "python3",
       env: { 
-        BOT_NAME: "Peaxel24", 
-        API_KEY: process.env.API_24, 
-        PRIVATE_KEY: process.env.PRIV_24 
+        BOT_NAME: "Peaxel29", 
+        API_KEY: process.env.API_29, 
+        PRIVATE_KEY: process.env.PRIV_29 
       }
     }
   ]
